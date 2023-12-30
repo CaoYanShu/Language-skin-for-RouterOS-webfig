@@ -1,0 +1,190 @@
+{
+    "Quick Set": {
+        "name": "快速设置"
+    },
+    "Terminal": {
+        "name": "终端"
+    },
+    "Wireless": {
+        "WiFi Wave2": {
+            "&": {
+                "add": {
+                    "name": "新增"
+                }
+            }
+        },
+        "name": "无线配置"
+    },
+    "Interfaces": {
+        "Interface": {
+            "&": {
+                "add": {
+                    "name": "新增"
+                }
+            }
+        },
+        "name": "接口配置"
+    },
+    "WireGuard": {
+        "WireGuard": {
+            "&": {
+                "add": {
+                    "name": "新增"
+                }
+            }
+        }
+    },
+    "PPP": {
+        "Interface": {
+            "&": {
+                "add": {
+                    "name": "新增"
+                }
+            }
+        }
+    },
+    "Bridge": {
+        "Bridge": {
+            "&": {
+                "add": {
+                    "name": "新增"
+                }
+            },
+            "name": "网桥"
+        },
+        "name": "网桥",
+        "Settings": {
+            "&": {
+                "set": {
+                    "name": "同意"
+                },
+                "cancel": {
+                    "name": "取消"
+                },
+                "apply": {
+                    "name": "应用"
+                }
+            },
+            "Bridge Fast Forward Packets": {
+                "name": "显示由网桥 Fast Forward 转发的数据包计数"
+            },
+            "name": "设置"
+        },
+        "Ports": {
+            "name": "端口"
+        },
+        "Port Extensions": {
+            "name": "端口拓展"
+        },
+        "Port MST Overrides": {
+            "name": "端口MST覆盖"
+        },
+        "Filters": {
+            "name": "过滤"
+        },
+        "Hosts": {
+            "name": "主机"
+        }
+    },
+    "Switch": {
+        "name": "交换机"
+    },
+    "Mesh": {
+        "Mesh": {
+            "&": {
+                "add": {
+                    "name": "新增"
+                }
+            }
+        }
+    },
+    "Routing": {
+        "BGP": {
+            "Connection": {
+                "&": {
+                    "add": {
+                        "name": "新增"
+                    }
+                }
+            }
+        },
+        "name": "路由"
+    },
+    "System": {
+        "name": "系统"
+    },
+    "Queues": {
+        "Simple Queues": {
+            "&": {
+                "add": {
+                    "name": "新增"
+                }
+            }
+        },
+        "name": "队列"
+    },
+    "Dot1X": {
+        "Client": {
+            "&": {
+                "add": {
+                    "name": "新增"
+                }
+            }
+        }
+    },
+    "Files": {
+        "name": "文件"
+    },
+    "Log": {
+        "name": "日志"
+    },
+    "RADIUS": {
+        "RADIUS": {
+            "&": {
+                "add": {
+                    "name": "新增"
+                }
+            }
+        }
+    },
+    "Tools": {
+        "name": "工具"
+    },
+    "Make Supout.rif": {
+        "Make it!": {
+            "&": {
+                "start": {
+                    "name": "开始"
+                },
+                "stop": {
+                    "name": "结束"
+                },
+                "cancel": {
+                    "name": "关闭"
+                }
+            },
+            "File Name": {
+                "name": "文件名",
+                "ro": true
+            }
+        }
+    },
+    "Undo": {
+        "name": "撤销"
+    },
+    "Redo": {
+        "name": "重做"
+    },
+    "Hide Passwords": {
+        "name": "隐藏密码"
+    },
+    "Safe Mode": {
+        "name": "安全模式"
+    },
+    "Graphs": {
+        "name": "图表"
+    },
+    "License": {
+        "name": "最终用户许可协议"
+    }
+}
